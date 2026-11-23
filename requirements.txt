@@ -1,0 +1,7 @@
+numpy
+sentence-transformers
+pypdf
+datasets
+chromadb
+streamlit
+requests
